@@ -1,0 +1,29 @@
+body {
+    background-color: grey;
+    padding: 10px;
+}
+
+h1 {
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+#div1 {
+    float: left;
+}
+
+#div2 {
+    float: left;
+}
+
+.name {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:25px;
+}
+
+.contact {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+}
